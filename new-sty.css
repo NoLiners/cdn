@@ -22,7 +22,7 @@
   animation: marquee 35s linear infinite;
   -moz-animation: marquee 35s linear infinite;
     animation-play-state: running;
-  -webkit-animation: marquee 15s linear infinite;
+  -webkit-animation: marquee 35s linear infinite;
     animation-play-state: running;
 }
 @keyframes marquee {
